@@ -1,0 +1,315 @@
+feature,mean_abs_ig,mean_signed_ig,Label
+cbcl_scr_syn_attention_t,0.3661624,-0.28801948,Full Dataset Model
+cbcl_scr_syn_social_t,0.28865016,-0.25194728,Full Dataset Model
+cbcl_scr_syn_aggressive_t,0.28072545,-0.2570229,Full Dataset Model
+cbcl_scr_syn_anxdep_t,0.225598,-0.13229366,Full Dataset Model
+cbcl_scr_syn_rulebreak_t,0.20042486,-0.1565943,Full Dataset Model
+total_core,0.19028036,-0.05833614,Full Dataset Model
+cbcl_scr_syn_withdep_t,0.1520879,-0.057628702,Full Dataset Model
+cbcl_scr_syn_thought_t,0.13659553,-0.08284191,Full Dataset Model
+prosocial_q1_p,0.12528579,-0.042507615,Full Dataset Model
+sleepdisturb22_p,0.105146445,-0.050415702,Full Dataset Model
+sleepdisturb4_p,0.093239695,-0.037521947,Full Dataset Model
+fam_enviro1_p,0.08511884,-0.022414349,Full Dataset Model
+school_9_y,0.07893809,-0.004593336,Full Dataset Model
+sleepdisturb23_p,0.07394075,-0.041857738,Full Dataset Model
+fam_enviro5_p,0.06320827,-0.02174403,Full Dataset Model
+school_10_y,0.06302632,-0.01477731,Full Dataset Model
+fam_history_9_yes_no,0.059442285,-0.047654834,Full Dataset Model
+sleepdisturb5_p,0.055339493,-0.032241058,Full Dataset Model
+sleepdisturb12_p,0.05499389,-0.023327246,Full Dataset Model
+demo_sex_v2_2,0.054121118,-0.023420025,Full Dataset Model
+sleepdisturb11_p,0.05311336,-0.028027987,Full Dataset Model
+fes_youth_q2,0.052588105,-0.0012150027,Full Dataset Model
+sleepdisturb3_p,0.051716737,-0.02245074,Full Dataset Model
+sleepdisturb1_p,0.051168498,-0.0153258275,Full Dataset Model
+cbcl_scr_syn_somatic_t,0.050806504,-0.00634619,Full Dataset Model
+famhx_4_p,0.049449474,-0.037312638,Full Dataset Model
+parent_rules_q7,0.04827795,-0.019598542,Full Dataset Model
+fes_youth_q1,0.045924388,-0.010482483,Full Dataset Model
+sleepdisturb21_p,0.04502079,-0.022953102,Full Dataset Model
+fam_history_10_yes_no,0.044735834,-0.03509659,Full Dataset Model
+fam_enviro4r_p,0.04453341,-0.0046294616,Full Dataset Model
+prosocial_q3_p,0.04412893,-0.009825995,Full Dataset Model
+sleepdisturb2_p,0.043828934,-0.021784665,Full Dataset Model
+sleepdisturb25_p,0.04332005,-0.023970528,Full Dataset Model
+parent_rules_q1a,0.04299012,-0.011910152,Full Dataset Model
+school_3_y,0.042003773,-0.009786519,Full Dataset Model
+school_5_y,0.040811077,-0.012113459,Full Dataset Model
+sleepdisturb18_p,0.039658442,-0.017893653,Full Dataset Model
+neighborhood3r_p,0.039414786,-0.018910607,Full Dataset Model
+fam_enviro8_p,0.039012603,-0.012246801,Full Dataset Model
+prosocial_q2_p,0.038386352,-0.012275267,Full Dataset Model
+school_7_y,0.037396055,-0.00891473,Full Dataset Model
+school_15_y,0.036600005,-0.013597098,Full Dataset Model
+parent_rules_q8,0.035459734,-0.01926665,Full Dataset Model
+sleepdisturb15_p,0.03459394,-0.013374236,Full Dataset Model
+fam_history_7_yes_no,0.032437652,-0.027981853,Full Dataset Model
+parent_rules_q2,0.03188661,-0.012090367,Full Dataset Model
+fes_youth_q4,0.031632256,-0.009452033,Full Dataset Model
+fam_history_5_yes_no,0.031364553,-0.025940096,Full Dataset Model
+sleepdisturb8_p,0.030734243,-0.020770313,Full Dataset Model
+rsfmri_c_ngd_cgc_ngd_dt,0.030632446,-0.0095693795,Full Dataset Model
+parent_highest_education,0.030366432,-0.02503632,Full Dataset Model
+neighborhood_crime_y,0.028675307,-0.011852604,Full Dataset Model
+sleepdisturb24_p,0.026996233,-0.020053973,Full Dataset Model
+parent_rules_q5,0.02684376,-0.011443452,Full Dataset Model
+fam_enviro2r_p,0.025915366,-0.010691033,Full Dataset Model
+screen_wkdy_y,0.025319071,-0.017140698,Full Dataset Model
+prosocial_q3_y,0.025279392,-0.013977748,Full Dataset Model
+demo_comb_income_v2,0.025250109,-0.021564512,Full Dataset Model
+interview_age,0.025231984,-0.00882128,Full Dataset Model
+sleepdisturb17_p,0.02498316,-0.015333021,Full Dataset Model
+parent_monitor_q1_y,0.02496006,-0.005283488,Full Dataset Model
+fes_youth_q7,0.024923181,-0.009249599,Full Dataset Model
+screen10_wknd_y,0.024851833,-0.01579264,Full Dataset Model
+rsfmri_c_ngd_dt_ngd_dt,0.024792634,-0.006343856,Full Dataset Model
+dmdtifp1_12,0.023713887,-0.013478033,Full Dataset Model
+fam_history_6_yes_no,0.023057459,0.008806826,Full Dataset Model
+screentime2_p_hours,0.023029478,-0.009775709,Full Dataset Model
+sleepdisturb16_p,0.022484194,-0.014782102,Full Dataset Model
+fam_enviro6_p,0.022225922,-0.010881363,Full Dataset Model
+neighborhood1r_p,0.021981101,-0.012089605,Full Dataset Model
+dmdtifp1_19,0.021957587,-0.013811645,Full Dataset Model
+neighborhood2r_p,0.021704681,-0.013834354,Full Dataset Model
+school_2_y,0.021682162,-0.0046195136,Full Dataset Model
+sleepdisturb13_p,0.021242686,-0.013594539,Full Dataset Model
+screen5_wkdy_y,0.020505069,-0.013286464,Full Dataset Model
+screen9_wknd_y,0.020379439,-0.0110198995,Full Dataset Model
+screen1_wkdy_y,0.02014516,-0.006337788,Full Dataset Model
+school_6_y,0.020128721,-0.011254473,Full Dataset Model
+dmdtifp1_18,0.019970335,-0.014577517,Full Dataset Model
+sleepdisturb10_p,0.019825175,-0.013728232,Full Dataset Model
+screentime2_p_minutes,0.01962299,-0.0007203253,Full Dataset Model
+dmdtifp1_11,0.019424004,-0.011315619,Full Dataset Model
+prosocial_q2_y,0.01907094,-0.008604269,Full Dataset Model
+school_8_y,0.018881425,-0.009600262,Full Dataset Model
+rsfmri_c_ngd_cgc_ngd_cgc,0.018265301,-0.0032074118,Full Dataset Model
+sleepdisturb19_p,0.018152487,-0.006870097,Full Dataset Model
+parent_monitor_q3_y,0.018146574,-0.0049964045,Full Dataset Model
+fam_enviro3_p,0.018074716,-0.008556021,Full Dataset Model
+fes_youth_q3,0.01788426,-0.0093073575,Full Dataset Model
+parent_monitor_q5_y,0.017572494,-0.012550763,Full Dataset Model
+demo_sex_v2_1,0.016723119,-0.009548044,Full Dataset Model
+sleepdisturb14_p,0.016207187,-0.009801408,Full Dataset Model
+screen14_y,0.016181653,-0.006522692,Full Dataset Model
+dmdtifp1_17,0.015882805,-0.009128069,Full Dataset Model
+parent_rules_q4,0.015407595,-0.011470253,Full Dataset Model
+dmdtifp1_14,0.015237711,-0.008413514,Full Dataset Model
+fes_youth_q8,0.015133675,-0.01156357,Full Dataset Model
+screen11_wknd_y,0.015104397,-0.010231202,Full Dataset Model
+school_17_y,0.0150842825,-0.00874709,Full Dataset Model
+parent_monitor_q2_y,0.014674165,-0.010878282,Full Dataset Model
+rsfmri_c_ngd_fo_ngd_fo,0.014153642,-0.0056794393,Full Dataset Model
+dmdtifp1_20,0.01414106,-0.008369809,Full Dataset Model
+dmdtifp1_7,0.014087132,-0.009413731,Full Dataset Model
+screen8_wknd_y,0.013807925,-0.0011352607,Full Dataset Model
+fes_youth_q5,0.013745023,-0.007978463,Full Dataset Model
+parent_rules_q1,0.013725192,-0.011769313,Full Dataset Model
+tfmri_sacsvcg_bcdk_bktsrh,0.013638742,-0.004658023,Full Dataset Model
+dmdtifp1_1,0.013630873,-0.0069042277,Full Dataset Model
+tfmri_sacsvcg_bcdk_bktslh,0.01347777,-0.0013296347,Full Dataset Model
+fam_enviro9r_p,0.013408214,-0.009393814,Full Dataset Model
+fes_youth_q9,0.012902022,-0.009104352,Full Dataset Model
+screen2_wkdy_y,0.012801795,-0.0023578664,Full Dataset Model
+sleepdisturb9_p,0.012761021,-0.010104686,Full Dataset Model
+parent_rules_q6,0.012474762,-0.011647222,Full Dataset Model
+dmdtifp1_9,0.012377513,0.0036398573,Full Dataset Model
+screen3_wkdy_y,0.012255596,-0.0056233644,Full Dataset Model
+prosocial_q1_y,0.01204113,-0.008580026,Full Dataset Model
+school_12_y,0.012035005,-0.008897004,Full Dataset Model
+screen13_y,0.01201706,-0.0066663967,Full Dataset Model
+dmdtifp1_6,0.01182621,0.0034896177,Full Dataset Model
+screentime1_p_minutes,0.0115486095,-0.008504562,Full Dataset Model
+sleepdisturb6_p,0.011169445,-0.0076564653,Full Dataset Model
+adi_percentile,0.010219709,-0.008182052,Full Dataset Model
+dmdtifp1_3,0.010149811,-0.0067862105,Full Dataset Model
+fam_enviro7r_p,0.010061788,-0.008928609,Full Dataset Model
+fes_youth_q6,0.010058489,-0.008351602,Full Dataset Model
+sleepdisturb7_p,0.010045639,-0.009572324,Full Dataset Model
+stq_y_ss_weekday,0.009790941,-0.008201938,Full Dataset Model
+screentime1_p_hours,0.009712763,-0.0080284085,Full Dataset Model
+screen7_wknd_y,0.009698567,-0.006358289,Full Dataset Model
+parent_monitor_q4_y,0.009346118,-0.0058411853,Full Dataset Model
+stq_y_ss_weekend,0.008992727,-0.00815782,Full Dataset Model
+school_4_y,0.008805474,-0.004519628,Full Dataset Model
+sleepdisturb20_p,0.008751464,-0.008155489,Full Dataset Model
+dmdtifp1_10,0.008661957,-0.0057121627,Full Dataset Model
+fam_history_11_yes_no,0.008189684,-0.004970711,Full Dataset Model
+screen12_wknd_y,0.008184511,-0.005711092,Full Dataset Model
+dmdtifp1_26,0.007974223,0.00035333898,Full Dataset Model
+dmdtifp1_13,0.007970276,-0.004134695,Full Dataset Model
+sleepdisturb26_p,0.0077631245,-0.006173402,Full Dataset Model
+dmdtifp1_21,0.0076932977,-0.0034562424,Full Dataset Model
+rsfmri_c_ngd_fo_ngd_cgc,0.0075075496,-0.0007911502,Full Dataset Model
+tfmri_ma_alrvn_b_cds_bkslh,0.007400586,-0.00257693,Full Dataset Model
+parent_rules_q9,0.007066328,-0.006012269,Full Dataset Model
+tfmri_ma_alrvn_b_cds_bksrh,0.0067212065,-0.0044768467,Full Dataset Model
+tfmri_nback_all_339,0.006615824,-0.002905316,Full Dataset Model
+dmdtifp1_5,0.005449562,-0.0032738263,Full Dataset Model
+dmdtifp1_2,0.005371439,-0.0033777587,Full Dataset Model
+dmdtifp1_8,0.0048494963,-0.0032698747,Full Dataset Model
+dmdtifp1_27,0.0045495806,-0.002685932,Full Dataset Model
+screen4_wkdy_y,0.0041997517,-0.0021950046,Full Dataset Model
+rsfmri_c_ngd_dt_ngd_fo,0.00406224,-0.0016076304,Full Dataset Model
+tfmri_nback_all_373,0.0038856058,-0.0013421545,Full Dataset Model
+fam_history_8_yes_no,0.003548218,-0.0019104604,Full Dataset Model
+dmdtifp1_4,0.0032624882,-0.00041700117,Full Dataset Model
+demo_sex_v2_3,0.00080414227,-0.00080414227,Full Dataset Model
+total_core,0.19028036,-0.05833614,Test Dataset without CBCL
+prosocial_q1_p,0.12528579,-0.042507615,Test Dataset without CBCL
+sleepdisturb22_p,0.105146445,-0.050415702,Test Dataset without CBCL
+sleepdisturb4_p,0.093239695,-0.037521947,Test Dataset without CBCL
+fam_enviro1_p,0.08511884,-0.022414349,Test Dataset without CBCL
+school_9_y,0.07893809,-0.004593336,Test Dataset without CBCL
+sleepdisturb23_p,0.07394075,-0.041857738,Test Dataset without CBCL
+fam_enviro5_p,0.06320827,-0.02174403,Test Dataset without CBCL
+school_10_y,0.06302632,-0.01477731,Test Dataset without CBCL
+fam_history_9_yes_no,0.059442285,-0.047654834,Test Dataset without CBCL
+sleepdisturb5_p,0.055339493,-0.032241058,Test Dataset without CBCL
+sleepdisturb12_p,0.05499389,-0.023327246,Test Dataset without CBCL
+demo_sex_v2_2,0.054121118,-0.023420025,Test Dataset without CBCL
+sleepdisturb11_p,0.05311336,-0.028027987,Test Dataset without CBCL
+fes_youth_q2,0.052588105,-0.0012150027,Test Dataset without CBCL
+sleepdisturb3_p,0.051716737,-0.02245074,Test Dataset without CBCL
+sleepdisturb1_p,0.051168498,-0.0153258275,Test Dataset without CBCL
+famhx_4_p,0.049449474,-0.037312638,Test Dataset without CBCL
+parent_rules_q7,0.04827795,-0.019598542,Test Dataset without CBCL
+fes_youth_q1,0.045924388,-0.010482483,Test Dataset without CBCL
+sleepdisturb21_p,0.04502079,-0.022953102,Test Dataset without CBCL
+fam_history_10_yes_no,0.044735834,-0.03509659,Test Dataset without CBCL
+fam_enviro4r_p,0.04453341,-0.0046294616,Test Dataset without CBCL
+prosocial_q3_p,0.04412893,-0.009825995,Test Dataset without CBCL
+sleepdisturb2_p,0.043828934,-0.021784665,Test Dataset without CBCL
+sleepdisturb25_p,0.04332005,-0.023970528,Test Dataset without CBCL
+parent_rules_q1a,0.04299012,-0.011910152,Test Dataset without CBCL
+school_3_y,0.042003773,-0.009786519,Test Dataset without CBCL
+school_5_y,0.040811077,-0.012113459,Test Dataset without CBCL
+sleepdisturb18_p,0.039658442,-0.017893653,Test Dataset without CBCL
+neighborhood3r_p,0.039414786,-0.018910607,Test Dataset without CBCL
+fam_enviro8_p,0.039012603,-0.012246801,Test Dataset without CBCL
+prosocial_q2_p,0.038386352,-0.012275267,Test Dataset without CBCL
+school_7_y,0.037396055,-0.00891473,Test Dataset without CBCL
+school_15_y,0.036600005,-0.013597098,Test Dataset without CBCL
+parent_rules_q8,0.035459734,-0.01926665,Test Dataset without CBCL
+sleepdisturb15_p,0.03459394,-0.013374236,Test Dataset without CBCL
+fam_history_7_yes_no,0.032437652,-0.027981853,Test Dataset without CBCL
+parent_rules_q2,0.03188661,-0.012090367,Test Dataset without CBCL
+fes_youth_q4,0.031632256,-0.009452033,Test Dataset without CBCL
+fam_history_5_yes_no,0.031364553,-0.025940096,Test Dataset without CBCL
+sleepdisturb8_p,0.030734243,-0.020770313,Test Dataset without CBCL
+rsfmri_c_ngd_cgc_ngd_dt,0.030632446,-0.0095693795,Test Dataset without CBCL
+parent_highest_education,0.030366432,-0.02503632,Test Dataset without CBCL
+neighborhood_crime_y,0.028675307,-0.011852604,Test Dataset without CBCL
+sleepdisturb24_p,0.026996233,-0.020053973,Test Dataset without CBCL
+parent_rules_q5,0.02684376,-0.011443452,Test Dataset without CBCL
+fam_enviro2r_p,0.025915366,-0.010691033,Test Dataset without CBCL
+screen_wkdy_y,0.025319071,-0.017140698,Test Dataset without CBCL
+prosocial_q3_y,0.025279392,-0.013977748,Test Dataset without CBCL
+demo_comb_income_v2,0.025250109,-0.021564512,Test Dataset without CBCL
+interview_age,0.025231984,-0.00882128,Test Dataset without CBCL
+sleepdisturb17_p,0.02498316,-0.015333021,Test Dataset without CBCL
+parent_monitor_q1_y,0.02496006,-0.005283488,Test Dataset without CBCL
+fes_youth_q7,0.024923181,-0.009249599,Test Dataset without CBCL
+screen10_wknd_y,0.024851833,-0.01579264,Test Dataset without CBCL
+rsfmri_c_ngd_dt_ngd_dt,0.024792634,-0.006343856,Test Dataset without CBCL
+dmdtifp1_12,0.023713887,-0.013478033,Test Dataset without CBCL
+fam_history_6_yes_no,0.023057459,0.008806826,Test Dataset without CBCL
+screentime2_p_hours,0.023029478,-0.009775709,Test Dataset without CBCL
+sleepdisturb16_p,0.022484194,-0.014782102,Test Dataset without CBCL
+fam_enviro6_p,0.022225922,-0.010881363,Test Dataset without CBCL
+neighborhood1r_p,0.021981101,-0.012089605,Test Dataset without CBCL
+dmdtifp1_19,0.021957587,-0.013811645,Test Dataset without CBCL
+neighborhood2r_p,0.021704681,-0.013834354,Test Dataset without CBCL
+school_2_y,0.021682162,-0.0046195136,Test Dataset without CBCL
+sleepdisturb13_p,0.021242686,-0.013594539,Test Dataset without CBCL
+screen5_wkdy_y,0.020505069,-0.013286464,Test Dataset without CBCL
+screen9_wknd_y,0.020379439,-0.0110198995,Test Dataset without CBCL
+screen1_wkdy_y,0.02014516,-0.006337788,Test Dataset without CBCL
+school_6_y,0.020128721,-0.011254473,Test Dataset without CBCL
+dmdtifp1_18,0.019970335,-0.014577517,Test Dataset without CBCL
+sleepdisturb10_p,0.019825175,-0.013728232,Test Dataset without CBCL
+screentime2_p_minutes,0.01962299,-0.0007203253,Test Dataset without CBCL
+dmdtifp1_11,0.019424004,-0.011315619,Test Dataset without CBCL
+prosocial_q2_y,0.01907094,-0.008604269,Test Dataset without CBCL
+school_8_y,0.018881425,-0.009600262,Test Dataset without CBCL
+rsfmri_c_ngd_cgc_ngd_cgc,0.018265301,-0.0032074118,Test Dataset without CBCL
+sleepdisturb19_p,0.018152487,-0.006870097,Test Dataset without CBCL
+parent_monitor_q3_y,0.018146574,-0.0049964045,Test Dataset without CBCL
+fam_enviro3_p,0.018074716,-0.008556021,Test Dataset without CBCL
+fes_youth_q3,0.01788426,-0.0093073575,Test Dataset without CBCL
+parent_monitor_q5_y,0.017572494,-0.012550763,Test Dataset without CBCL
+demo_sex_v2_1,0.016723119,-0.009548044,Test Dataset without CBCL
+sleepdisturb14_p,0.016207187,-0.009801408,Test Dataset without CBCL
+screen14_y,0.016181653,-0.006522692,Test Dataset without CBCL
+dmdtifp1_17,0.015882805,-0.009128069,Test Dataset without CBCL
+parent_rules_q4,0.015407595,-0.011470253,Test Dataset without CBCL
+dmdtifp1_14,0.015237711,-0.008413514,Test Dataset without CBCL
+fes_youth_q8,0.015133675,-0.01156357,Test Dataset without CBCL
+screen11_wknd_y,0.015104397,-0.010231202,Test Dataset without CBCL
+school_17_y,0.0150842825,-0.00874709,Test Dataset without CBCL
+parent_monitor_q2_y,0.014674165,-0.010878282,Test Dataset without CBCL
+rsfmri_c_ngd_fo_ngd_fo,0.014153642,-0.0056794393,Test Dataset without CBCL
+dmdtifp1_20,0.01414106,-0.008369809,Test Dataset without CBCL
+dmdtifp1_7,0.014087132,-0.009413731,Test Dataset without CBCL
+screen8_wknd_y,0.013807925,-0.0011352607,Test Dataset without CBCL
+fes_youth_q5,0.013745023,-0.007978463,Test Dataset without CBCL
+parent_rules_q1,0.013725192,-0.011769313,Test Dataset without CBCL
+tfmri_sacsvcg_bcdk_bktsrh,0.013638742,-0.004658023,Test Dataset without CBCL
+dmdtifp1_1,0.013630873,-0.0069042277,Test Dataset without CBCL
+tfmri_sacsvcg_bcdk_bktslh,0.01347777,-0.0013296347,Test Dataset without CBCL
+fam_enviro9r_p,0.013408214,-0.009393814,Test Dataset without CBCL
+fes_youth_q9,0.012902022,-0.009104352,Test Dataset without CBCL
+screen2_wkdy_y,0.012801795,-0.0023578664,Test Dataset without CBCL
+sleepdisturb9_p,0.012761021,-0.010104686,Test Dataset without CBCL
+parent_rules_q6,0.012474762,-0.011647222,Test Dataset without CBCL
+dmdtifp1_9,0.012377513,0.0036398573,Test Dataset without CBCL
+screen3_wkdy_y,0.012255596,-0.0056233644,Test Dataset without CBCL
+prosocial_q1_y,0.01204113,-0.008580026,Test Dataset without CBCL
+school_12_y,0.012035005,-0.008897004,Test Dataset without CBCL
+screen13_y,0.01201706,-0.0066663967,Test Dataset without CBCL
+dmdtifp1_6,0.01182621,0.0034896177,Test Dataset without CBCL
+screentime1_p_minutes,0.0115486095,-0.008504562,Test Dataset without CBCL
+sleepdisturb6_p,0.011169445,-0.0076564653,Test Dataset without CBCL
+adi_percentile,0.010219709,-0.008182052,Test Dataset without CBCL
+dmdtifp1_3,0.010149811,-0.0067862105,Test Dataset without CBCL
+fam_enviro7r_p,0.010061788,-0.008928609,Test Dataset without CBCL
+fes_youth_q6,0.010058489,-0.008351602,Test Dataset without CBCL
+sleepdisturb7_p,0.010045639,-0.009572324,Test Dataset without CBCL
+stq_y_ss_weekday,0.009790941,-0.008201938,Test Dataset without CBCL
+screentime1_p_hours,0.009712763,-0.0080284085,Test Dataset without CBCL
+screen7_wknd_y,0.009698567,-0.006358289,Test Dataset without CBCL
+parent_monitor_q4_y,0.009346118,-0.0058411853,Test Dataset without CBCL
+stq_y_ss_weekend,0.008992727,-0.00815782,Test Dataset without CBCL
+school_4_y,0.008805474,-0.004519628,Test Dataset without CBCL
+sleepdisturb20_p,0.008751464,-0.008155489,Test Dataset without CBCL
+dmdtifp1_10,0.008661957,-0.0057121627,Test Dataset without CBCL
+fam_history_11_yes_no,0.008189684,-0.004970711,Test Dataset without CBCL
+screen12_wknd_y,0.008184511,-0.005711092,Test Dataset without CBCL
+dmdtifp1_26,0.007974223,0.00035333898,Test Dataset without CBCL
+dmdtifp1_13,0.007970276,-0.004134695,Test Dataset without CBCL
+sleepdisturb26_p,0.0077631245,-0.006173402,Test Dataset without CBCL
+dmdtifp1_21,0.0076932977,-0.0034562424,Test Dataset without CBCL
+rsfmri_c_ngd_fo_ngd_cgc,0.0075075496,-0.0007911502,Test Dataset without CBCL
+tfmri_ma_alrvn_b_cds_bkslh,0.007400586,-0.00257693,Test Dataset without CBCL
+parent_rules_q9,0.007066328,-0.006012269,Test Dataset without CBCL
+tfmri_ma_alrvn_b_cds_bksrh,0.0067212065,-0.0044768467,Test Dataset without CBCL
+tfmri_nback_all_339,0.006615824,-0.002905316,Test Dataset without CBCL
+dmdtifp1_5,0.005449562,-0.0032738263,Test Dataset without CBCL
+dmdtifp1_2,0.005371439,-0.0033777587,Test Dataset without CBCL
+dmdtifp1_8,0.0048494963,-0.0032698747,Test Dataset without CBCL
+dmdtifp1_27,0.0045495806,-0.002685932,Test Dataset without CBCL
+screen4_wkdy_y,0.0041997517,-0.0021950046,Test Dataset without CBCL
+rsfmri_c_ngd_dt_ngd_fo,0.00406224,-0.0016076304,Test Dataset without CBCL
+tfmri_nback_all_373,0.0038856058,-0.0013421545,Test Dataset without CBCL
+fam_history_8_yes_no,0.003548218,-0.0019104604,Test Dataset without CBCL
+dmdtifp1_4,0.0032624882,-0.00041700117,Test Dataset without CBCL
+demo_sex_v2_3,0.00080414227,-0.00080414227,Test Dataset without CBCL
+cbcl_scr_syn_thought_t,0.0,0.0,Test Dataset without CBCL
+cbcl_scr_syn_social_t,0.0,0.0,Test Dataset without CBCL
+cbcl_scr_syn_somatic_t,0.0,0.0,Test Dataset without CBCL
+cbcl_scr_syn_withdep_t,0.0,0.0,Test Dataset without CBCL
+cbcl_scr_syn_anxdep_t,0.0,0.0,Test Dataset without CBCL
+cbcl_scr_syn_aggressive_t,0.0,0.0,Test Dataset without CBCL
+cbcl_scr_syn_attention_t,0.0,0.0,Test Dataset without CBCL
+cbcl_scr_syn_rulebreak_t,0.0,0.0,Test Dataset without CBCL
